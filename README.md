@@ -35,6 +35,19 @@ docs/
 
 ![Map Layout](screenshots/map_layout.png)
 
+## 📍 Map Information
+
+Projection: EPSG:4326 (WGS 84)
+
+Administrative Levels:
+
+- Division (8)
+- District (64)
+- Upazila (495)
+
+Software:
+QGIS 3.44.11
+
 ## 📄 Outputs
 
 - PDF Map
@@ -50,6 +63,12 @@ docs/
 - Symbology
 - Labeling
 - Print Layout Design
+-Spatial Data Visualization
+-Map Layout Design
+-Administrative Boundary Mapping
+-Open Data Processing
+-Geospatial Data Management
+
 
 ## 👤 Author
 
