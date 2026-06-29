@@ -63,11 +63,11 @@ QGIS 3.44.11
 - Symbology
 - Labeling
 - Print Layout Design
--Spatial Data Visualization
--Map Layout Design
--Administrative Boundary Mapping
--Open Data Processing
--Geospatial Data Management
+- Spatial Data Visualization
+- Map Layout Design
+- Administrative Boundary Mapping
+- Open Data Processing
+- Geospatial Data Management
 
 
 ## 👤 Author
