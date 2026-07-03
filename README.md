@@ -33,7 +33,8 @@ docs/
 
 ## 🖼 Project Preview
 
-![Map Layout](screenshots/map_layout.png)
+![Map Layout](https://github.com/zahid-gis/Bangladesh-Administrative-Boundary-Map/blob/main/output/Bangladesh_Administrative_Boundary_Map.png)
+
 
 ## 📍 Map Information
 
@@ -75,3 +76,6 @@ QGIS 3.44.11
 **Zahid**
 
 Aspiring GIS Analyst from Bangladesh.
+
+Linkedin 
+https://www.linkedin.com/in/md-abue-zahid-5b6328316/
